@@ -4,10 +4,10 @@
 
 ### 🧰 Languages and Tools
 
+>clarification: python3.x, c++11, c99, basic java
+
 ### Programming 
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
@@ -15,14 +15,7 @@
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-<br/> 
-<h5 style="color: lightblue;"> info:<br/>
- Python3.X <br/>
-C++11 <br/>
-C99 <br/>
-Basic knowledge of Java
- </h5>
-
+<br/>
 ### Verision control
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
@@ -79,4 +72,3 @@ Basic knowledge of Java
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
 
 <br />
-#
