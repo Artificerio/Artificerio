@@ -4,7 +4,7 @@
 
 ### 🧰 Languages and Tools
 
->clarification: python3.x, c++11, c99, basic java
+>info: python3.x, c++11, c99, basic java
 
 ### Programming 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
